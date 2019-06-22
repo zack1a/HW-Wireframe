@@ -1,3 +1,51 @@
-# HW-Wireframe
-# HW-Wireframe
-# HW-Wireframe
+<!DOCTYPE html>
+<html lang="en-us">
+
+        <head>
+            <meta charset="UTF-8">
+            <title>test</title>
+            <link rel="stylesheet" type="text/css" href="style.css">
+         </head>
+
+<body>
+
+    <header> header
+        
+    </header>
+ 
+    <nav>nav
+    
+    </nav>
+
+    
+    
+
+    <section id="left"> 
+         
+        <article>article
+            
+            <p>
+                <strong>h1,h2,h3</strong>
+            </p>
+        
+            <p>p</p>
+
+        </article>
+
+  
+   
+    </section>
+
+    <aside id="right">
+           
+    <h1>aside</h1>
+        
+        
+    </aside>
+</div>
+
+<footer>
+       <p>footer</p> 
+          </footer>
+       
+</body>
