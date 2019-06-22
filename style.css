@@ -1,1 +1,96 @@
-/* Move test */
+*{
+box-sizing: border-box;
+text-align: center;
+background:#777
+}
+
+body {
+    
+    padding:0;
+    margin:20px auto;
+    font-family: arial, helvetica, sans-serif; 
+    color:#ebebeb;
+    width: 960px;
+    font-size: 18px;
+   
+}
+
+header { 
+    padding: 30px;
+    margin-bottom: 0px;
+    background-color:#ebebeb;
+    font-size: 18px;
+    width: 960px;
+    color: #777;
+    
+}
+
+nav {
+    padding: 30px;
+    margin: 10px auto 20px auto;
+    background-color:#ebebeb;
+    font-size: 18px;
+    width: 960px;
+    color: #777;
+    
+    
+}
+
+section { 
+    float:left;
+    padding:20px;
+    margin:0;
+    color:#ebebeb;
+    width: 495px;
+    clear: both;
+    margin-bottom: 10px 
+
+}
+
+#left, #middle, #right {color:#ebebeb}
+
+#left {float: left; background:#ebebeb;}
+
+#middle {float: middle; background:#ebebeb;}
+
+#right {float: right; background:#ebebeb;}
+
+#full { margin-top: 10px; 
+    color: #777; 
+    background: #ebebeb;
+    margin: 10 auto;
+    width: 33%
+  
+  }
+  
+aside {float: right;
+    color:#777;
+    background: #ebebeb;;
+    width:33%;
+    height: 160px;
+    margin: 10 auto;
+    font-size: 12px
+/* This text is bold, I think its dictated by other elements, but I can't change it */
+
+}
+
+footer {
+    color:#777;
+    background: #ebebeb;
+    clear: both;
+    padding: 30px;
+    clear: both;
+    margin-top: 10px;
+    font-size: 18px;
+    width: 960px;
+    
+
+
+  
+  }
+
+
+
+
+
+
